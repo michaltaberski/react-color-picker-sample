@@ -1,0 +1,16 @@
+{
+  "name": "recat-color-picker",
+  "version": "1.0.0",
+  "description": "Simple react color picker",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michal Taberski",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "react": "^0.13.3"
+  }
+}
